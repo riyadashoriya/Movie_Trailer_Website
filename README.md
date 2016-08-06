@@ -2,6 +2,8 @@
 
 This is a Movie Trailer Website developed using Python for Udacity's Full Stack Web Developer Nanodegree Plus Program.
 
+![alt text](https://github.com/riyadashoriya/Movie_Trailer_Website/blob/master/gitphoto.png "Website Preview")
+
 
 ###Content:
 
